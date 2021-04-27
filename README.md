@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/PROTECCION_INTEGRAL_INFO/](https://ecored-sena.github.io/PROTECCION_INTEGRAL_INFO/)
 
 #
 
