@@ -352,7 +352,7 @@ export const creditos = {
     },
     {
       nombre: 'María Isabel Román Rueda',
-      cargo: 'Revisora de estilo',
+      cargo: 'Revisora de contenidos',
     },
     {
       centro: 'Centro Industrial del Diseño y la Manufactura',
