@@ -297,19 +297,19 @@ export const creditos = {
     },
     {
       nombre: 'Liliana Victoria Morales Gualdrón',
-      cargo: 'Diseñador instruccional',
+      cargo: 'Diseñadora instruccional',
       centro: 'Centro de Gestión Industrial',
       regional: 'Regional Distrito Capital',
     },
     {
       nombre: 'Dayra Maritza Paz Calderón',
-      cargo: 'Diseñador instruccional y evaluador Instruccional',
+      cargo: 'Diseñadora instruccional y evaluadora Instruccional',
       centro: 'Centro para la Industria y la Comunicación Gráfica',
       regional: 'Regional Distrito Capital',
     },
     {
       nombre: 'Julia Isabel Roberto',
-      cargo: 'Evaluador instruccional',
+      cargo: 'Evaluadora instruccional',
       centro: 'Centro para la comunicación de la Industria Gráfica',
       regional: 'Regional Distrito Capital',
     },
