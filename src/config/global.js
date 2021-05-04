@@ -319,12 +319,6 @@ export const creditos = {
       centro: 'Centro de Diseño y Metrología',
       regional: 'Regional Distrito Capital',
     },
-    {
-      nombre: 'María Isabel Román Rueda',
-      cargo: 'Revisora de estilo',
-      centro: 'Centro para la Comunicación de la Industria Gráfica',
-      regional: 'Regional Distrito Capital',
-    },
   ],
   desarrolloProducto: [
     {
@@ -355,6 +349,10 @@ export const creditos = {
     {
       nombre: ['Daniel Ricardo Mutis Gómez', 'Ricardo Alfonso González Vargas'],
       cargo: 'Desarrollo Front-End',
+    },
+    {
+      nombre: 'María Isabel Román Rueda',
+      cargo: 'Revisora de estilo',
     },
     {
       centro: 'Centro Industrial del Diseño y la Manufactura',
