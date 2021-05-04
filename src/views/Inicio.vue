@@ -49,16 +49,31 @@ section
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
-      span.h6 3. Población<br>objetivo
+      span.h6 3. Competencias a<br>desarrollar
+
+    ul
+      li 
+        i.lista-ul__vineta
+        | Atender niños y niñas según proceso pedagógico y normativa de educación inicial. 
+    
+
+  .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
+    .titulo__template--a.mb-4
+      span.h6 4. Perfil de<br>ingreso
 
     p.mb-3 Este curso está dirigido a toda la población que se encuentre interesada en la promoción de la protección integral de derechos de niñas, niños y adolescentes, la permanencia escolar y la erradicación de la pobreza en las diferentes regiones del país; desde la diversidad de experiencias y conocimientos que pueden aportar los participantes durante todo el proceso. 
 
     p Asimismo, esta formación es pertinente para todos los actores institucionales y comunitarios que deseen fortalecer su capacidad de liderazgo en la solución de las problemáticas mencionadas anteriormente y en el mejoramiento de la calidad de vida de sus comunidades. 
 
+  .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
+    .titulo__template--a.mb-4
+      span.h6 5. Perfil de<br>egreso
+
+    p No aplica en programa complementario. 
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
-      span.h6 4. Estrategia<br>metodológica
+      span.h6 6. Estrategia<br>metodológica
 
     p.mb-3 Centrada en la construcción de autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en la utilización de las tecnologías de la información y la comunicación, integradas, en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
 
