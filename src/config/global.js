@@ -253,47 +253,51 @@ export const menuPrincipal = {
 export const creditos = {
   liderEquipo: {
     nombre: 'Maria Camila Garcia Santamaria',
-    cargo: 'Líder del equipo',
+    cargo: 'Líder del Equipo',
   },
   contenidoInstruccional: [
     {
       nombre: 'Rafael Neftalí Lizcano Reyes',
-      cargo: 'Asesor metodológico y pedagógico',
+      cargo: 'Asesor Metodológico y Pedagógico',
       centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander',
     },
     {
-      nombre: 'Ana Francisca Uribe Cárdenas',
-      cargo: 'Experta temática',
-      centro:
-        'Equipo de Verificación. Programa Familias en Acción Dirección de Transferencias Monetarias Condicionadas.',
+      nombre: 'Luis Alfonso Rodríguez',
+      cargo: 'Consultor',
+      centro: 'CORPROGRESO',
     },
     {
-      nombre: 'Claudia Pureza Perdomo Gómez',
-      cargo: 'Experta temática',
-      centro:
-        'GIT Territorios y Poblaciones Dirección de Transferencias Monetarias Condicionadas',
+      nombre: ['Cristian Camilo Delgado', 'Martha Yolanda Bustos Ramírez'],
+      cargo: 'Profesional ICBF',
+      centro: 'Instituto Colombiano de Bienestar Familiar',
+    },
+    {
+      nombre: ['Jaqueline Garavito Mariño', 'Julián Fernando Gómez Urueña'],
+      cargo: 'Profesional MEN',
+      centro: 'Ministerio de Educación Nacional',
     },
     {
       nombre: 'Jairo Fernando Contreras Gutiérrez',
-      cargo: 'Experto temático',
+      cargo: 'Profesional Prosperidad Social',
       centro: 'Oficina Asesora de Planeación',
     },
     {
       nombre: 'Martha Cecilia Arcila Aponte',
-      cargo: 'Experta temática',
+      cargo: 'Profesional Especializada Prosperidad Social',
       centro: 'DTMC Grupo de Pilotaje y Escalamiento',
     },
     {
-      nombre: 'Omayra Hoyos Rojas',
-      cargo: 'Experta temática',
+      nombre: ['Ana Francisca Uribe Cárdenas', 'Omayra Hoyos Rojas'],
+      cargo: 'Profesional Prosperidad Social',
       centro:
-        'Equipo de Verificación. Programa Familias en Acción Dirección de Transferencias Monetarias Condicionadas',
+        'Equipo de Verificación. Programa Familias en Acción. Dirección de Transferencias Monetarias Condicionadas',
     },
     {
-      nombre: 'William Mogollón Marín',
-      cargo: 'Experto temático',
-      centro: 'CORPROGRESO',
+      nombre: 'Claudia Pureza Perdomo Gómez',
+      cargo: 'Profesional Especializada Prosperidad Social',
+      centro:
+        'GIT Territorios y Poblaciones. Dirección de Transferencias Monetarias Condicionadas',
     },
     {
       nombre: 'Liliana Victoria Morales Gualdrón',
@@ -303,19 +307,13 @@ export const creditos = {
     },
     {
       nombre: 'Dayra Maritza Paz Calderón',
-      cargo: 'Diseñadora instruccional y evaluadora Instruccional',
+      cargo: 'Diseñadora y Evaluadora Instruccional',
       centro: 'Centro para la Industria y la Comunicación Gráfica',
       regional: 'Regional Distrito Capital',
     },
     {
-      nombre: 'Julia Isabel Roberto',
-      cargo: 'Evaluadora instruccional',
-      centro: 'Centro para la comunicación de la Industria Gráfica',
-      regional: 'Regional Distrito Capital',
-    },
-    {
       nombre: 'José Gabriel Ortiz Abella',
-      cargo: 'Revisión metodológica y pedagógica',
+      cargo: 'Corrector de Estilo',
       centro: 'Centro de Diseño y Metrología',
       regional: 'Regional Distrito Capital',
     },
@@ -323,41 +321,27 @@ export const creditos = {
   desarrolloProducto: [
     {
       nombre: 'Francisco José Lizcano Reyes',
-      cargo: 'Responsable del equipo',
+      cargo: 'Responsable del Equipo',
       centro: 'Centro Industrial Del Diseño Y La Manufactura',
       regional: 'Regional Santander',
     },
     {
       nombre: 'Leyson Fabian Castaño Perez',
-      cargo: 'Soporte organizacional',
+      cargo: 'Soporte Organizacional',
       centro: 'Centro de Comercio y Servicios',
       regional: 'Regional Tolima',
     },
     {
-      nombre: [
-        'Jesus Antonio Vecino Valero',
-        'José Jaime Luis Tang Pinzón',
-        'Lady Adriana Ariza Luque',
-        'Luis Zenen Arévalo Mantilla',
-        'Nelson Iván Vera Briceño',
-        'Oleg Litvin',
-        'Wilson Andres Arenales Cáceres',
-        'Zuleidy Maria Ruiz Torres',
-      ],
-      cargo: 'Diseño web y Producción Audiovisual',
+      nombre: 'Lady Adriana Ariza Luque',
+      cargo: 'Diseño Web y Producción Audiovisual',
     },
     {
-      nombre: ['Daniel Ricardo Mutis Gómez', 'Ricardo Alfonso González Vargas'],
+      nombre: 'Ricardo Alfonso González Vargas',
       cargo: 'Desarrollo Front-End',
     },
     {
-      nombre: [
-        'Jenny Paola Montillo',
-        'María Isabel Román Rueda',
-        'Rafael Augusto Mantilla',
-        'Veimar Celis Meléndez',
-      ],
-      cargo: 'Revisores de contenido',
+      nombre: 'María Isabel Román Rueda',
+      cargo: 'Revisora de Contenidos',
     },
     {
       centro: 'Centro Industrial del Diseño y la Manufactura',
